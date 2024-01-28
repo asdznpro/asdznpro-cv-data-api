@@ -11,7 +11,7 @@
 			},
 			{
 				"title": "Дата рождения:",
-				"value": "8 апреля 2003 г. (20 лет)"
+				"value": "8 апреля 2003 г. (20 лет) // сделать вычисление лет"
 			},
 			{
 				"title": "Иностранные языки:",
@@ -20,32 +20,6 @@
 			}
 		],
 		"photo": "#",
-		"cvList": [
-			{
-				"name": "Обо мне",
-				"pathname": "about"
-			},
-			{
-				"name": "Опыт работы",
-				"pathname": "experience"
-			},
-			{
-				"name": "Портфолио",
-				"pathname": "portfolio"
-			},
-			{
-				"name": "Проф. навыки",
-				"pathname": "hard-skills"
-			},
-			{
-				"name": "Образование",
-				"pathname": "education"
-			},
-			{
-				"name": "Контакты",
-				"pathname": "contacts"
-			}
-		],
 		"possibleJobs": {
 			"title": "Возможные должности",
 			"list": [
@@ -53,44 +27,7 @@
 				"UX/UI дизайнер",
 				"Графический дизайнер"
 			]
-		},
-		"contacts": [
-			{
-				"name": "VK",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_28.svg"
-			},
-			{
-				"name": "Telegram",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_telegram_28.svg"
-			},
-			{
-				"name": "VK Mail",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-mail_28.svg"
-			},
-			{
-				"name": "Yandex",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_yandex_28.svg"
-			},
-			{
-				"name": "GitHub",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_github_28.svg"
-			},
-			{
-				"name": "GitLab",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_github_28.svg"
-			},
-			{
-				"name": "HeadHunter",
-				"href": "https://vk.com/asdznpro",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_headhunter_28.svg"
-			}
-		]
+		}
 	},
 	"displayName": "Обо мне",
 	"pathname": "personal",
