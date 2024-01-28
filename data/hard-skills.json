@@ -1,0 +1,147 @@
+ {
+  "data": [
+    {
+      "id": 1,
+      "jobTitle": "Графический & UI/UX дизайн",
+      "stack": [
+        {
+          "id": 1,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_photoshop_28.svg",
+          "name": "Photoshop",
+          "description": "#",
+          "examples": [
+            "link",
+            "link",
+            "link"
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_illustrator_28.svg",
+          "name": "Illustrator",
+          "description": "#"
+        },
+        {
+          "id": 3,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_figma_28.svg",
+          "name": "Figma",
+          "description": "#",
+          "examples": [
+            "link",
+            "link",
+            "link"
+          ]
+        },
+        {
+          "id": 4,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_cinema-4d_28.svg",
+          "name": "Cinema 4D",
+          "description": "#",
+          "examples": [
+            "link",
+            "link",
+            "link"
+          ]
+        },
+        {
+          "id": 5,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redshift_28.svg",
+          "name": "RedShift",
+          "description": "#"
+        },
+        {
+          "id": 6,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redshift_28.svg",
+          "name": "Blender",
+          "description": "#"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "jobTitle": "Фронтенд",
+      "stack": [
+        {
+          "id": 1,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_after-effects_28.svg",
+          "name": "Вёрстка",
+          "description": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_after-effects_28.svg",
+          "name": "Браузеры и сеть",
+          "description": "#"
+        },
+        {
+          "id": 3,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_react_color_28.svg",
+          "name": "React",
+          "description": "#"
+        },
+        {
+          "id": 4,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_vue-js_color_28.svg",
+          "name": "Vue",
+          "description": "#"
+        },
+        {
+          "id": 5,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_typescript_28.svg",
+          "name": "TypeScript",
+          "description": "#"
+        },
+        {
+          "id": 6,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_javascript_28.svg",
+          "name": "JavaScript",
+          "description": "#"
+        },
+        {
+          "id": 7,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redux-toolkit_28.svg",
+          "name": "Redux Toolkit",
+          "description": "#"
+        },
+        {
+          "id": 8,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redux-toolkit_28.svg",
+          "name": "RTK Query",
+          "description": "#"
+        },
+        {
+          "id": 9,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_vite-js_28.svg",
+          "name": "Vite",
+          "description": "#"
+        },
+        {
+          "id": 10,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_git_28.svg",
+          "name": "Система управления версиями Git",
+          "description": "#"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "jobTitle": "Другое",
+      "stack": [
+        {
+          "id": 1,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_after-effects_28.svg",
+          "name": "After Effects",
+          "description": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_premiere_28.svg",
+          "name": "Premiere Pro",
+          "description": "#"
+        }
+      ]
+    }
+  ],
+  "displayName": "icons/hard-skills",
+  "id": "68182709-2efb-4672-9551-4c4c40148ff2"
+}
