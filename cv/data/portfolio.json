@@ -12,6 +12,10 @@
 			},
 			"tags": [
 				{
+					"name": "Новое",
+					"type": "new"
+				},
+				{
 					"name": "Графический дизайн",
 					"type": "graphic-design"
 				},
@@ -22,10 +26,6 @@
 				{
 					"name": "Фронтенд",
 					"type": "frontend"
-				},
-				{
-					"name": "Новое",
-					"type": "new"
 				}
 			],
 			"awards": [
@@ -84,6 +84,24 @@
 					"type": "graphic-design"
 				}
 			]
+		}
+	],
+	"tags": [
+		{
+			"name": "Новое",
+			"type": "new"
+		},
+		{
+			"name": "Графический дизайн",
+			"type": "graphic-design"
+		},
+		{
+			"name": "UI/UX",
+			"type": "ui-ux"
+		},
+		{
+			"name": "Фронтенд",
+			"type": "frontend"
 		}
 	],
 	"displayName": "Портфолио",
