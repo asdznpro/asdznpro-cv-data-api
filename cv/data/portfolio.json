@@ -1,0 +1,45 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"client": ["Томский политех", "Winline"],
+			"project": {
+				"fullName": "tpu.shop — интернет-магазин мерча Томского политеха",
+				"shortName": "tpu.shop",
+				"pathname": "tpu-shop",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
+				"date": "09.2023"
+			},
+			"tags": [
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
+				},
+				{
+					"name": "UI/UX",
+					"type": "ui-ux"
+				},
+				{
+					"name": "Фронтенд",
+					"type": "frontend"
+				},
+				{
+					"name": "Новое",
+					"type": "new"
+				}
+			],
+			"awards": [
+				{
+					"id": 1,
+					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/awards/gb-bestitprojects-1022.png",
+					"href": "https://gb.ru/konkurs/bestitprojects/1022",
+					"name": "Конкурс на лучший IT-проект от GeekBrains",
+					"description": "Победитель конкурса на лучший IT-проект от образовательной платформы GeekBrains в номинации «Дизайн»"
+				}
+			]
+		}
+	],
+	"displayName": "Портфолио",
+	"pathname": "portfolio",
+	"id": "gKZLTUvg-EB2QQB2Z-uyb59bgw"
+}

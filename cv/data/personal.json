@@ -1,0 +1,35 @@
+{
+	"data": {
+		"fullName": "Андрей Сухушин",
+		"bio": ["Абзац", "Абзац"],
+		"brief": [
+			{
+				"title": "Гражданство:",
+				"icon": "icon",
+				"iconLight": "icon",
+				"value": "Российская федерация"
+			},
+			{
+				"title": "Дата рождения:",
+				"value": "8 апреля 2003 г. (20 лет) // сделать вычисление лет"
+			},
+			{
+				"title": "Иностранные языки:",
+				"icon": "icon",
+				"value": "English (B1 — intermediate)"
+			}
+		],
+		"photo": "#",
+		"possibleJobs": {
+			"title": "Возможные должности",
+			"list": [
+				"Фронтенд-разработчик (React)",
+				"UX/UI дизайнер",
+				"Графический дизайнер"
+			]
+		}
+	},
+	"displayName": "Обо мне",
+	"pathname": "personal",
+	"id": "ta5JBzUU-mQBWYjXk-YH43gmLH"
+}
