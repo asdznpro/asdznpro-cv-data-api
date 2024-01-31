@@ -8,7 +8,7 @@
 				"shortName": "tpu.shop",
 				"pathname": "tpu-shop",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
-				"date": "09.2023"
+				"date": "06.2022"
 			},
 			"tags": [
 				{
@@ -35,6 +35,53 @@
 					"href": "https://gb.ru/konkurs/bestitprojects/1022",
 					"name": "Конкурс на лучший IT-проект от GeekBrains",
 					"description": "Победитель конкурса на лучший IT-проект от образовательной платформы GeekBrains в номинации «Дизайн»"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"client": ["No Sleep Agency"],
+			"project": {
+				"fullName": "RUSH B — Открывай бесплатные кейсы со скинами CS:GO",
+				"shortName": "RUSH B",
+				"pathname": "rushb",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/rushb.png",
+				"date": "09.2023"
+			},
+			"tags": [
+				{
+					"name": "UI/UX",
+					"type": "ui-ux"
+				},
+				{
+					"name": "Фронтенд",
+					"type": "frontend"
+				}
+			],
+			"awards": [
+				{
+					"id": 1,
+					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/awards/geekbrains-award.png",
+					"href": "https://gb.ru/konkurs/bestitprojects/1022",
+					"name": "Конкурс на лучший IT-проект от GeekBrains",
+					"description": "Победитель конкурса на лучший IT-проект от образовательной платформы GeekBrains в номинации «Дизайн»"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"client": ["Сбер", "No Sleep Agency"],
+			"project": {
+				"fullName": "SberMegaMarket Hub — раздел на СберМегаМаркет и комьюнити, созданные специально для геймеров",
+				"shortName": "SberMegaMarket Hub",
+				"pathname": "sbermm",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/sbermm.png",
+				"date": "11.2022"
+			},
+			"tags": [
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
 				}
 			]
 		}
