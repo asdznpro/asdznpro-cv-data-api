@@ -8,40 +8,37 @@
 					"id": 1,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_photoshop_28.svg",
 					"name": "Photoshop",
-					"description": "#",
-					"examples": ["link", "link", "link"]
+					"level": "High"
 				},
 				{
 					"id": 2,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_illustrator_28.svg",
 					"name": "Illustrator",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 3,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_figma_28.svg",
 					"name": "Figma",
-					"description": "#",
-					"examples": ["link", "link", "link"]
+					"level": "High"
 				},
 				{
 					"id": 4,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_cinema-4d_28.svg",
 					"name": "Cinema 4D",
-					"description": "#",
-					"examples": ["link", "link", "link"]
+					"level": "Base"
 				},
 				{
 					"id": 5,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redshift_28.svg",
 					"name": "RedShift",
-					"description": "#"
+					"level": "Base"
 				},
 				{
 					"id": 6,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_blender_28.svg",
 					"name": "Blender",
-					"description": "#"
+					"level": "Base"
 				}
 			]
 		},
@@ -53,61 +50,61 @@
 					"id": 1,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_after-effects_28.svg",
 					"name": "Вёрстка",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 2,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_after-effects_28.svg",
 					"name": "Браузеры и сеть",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 3,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_react_color_28.svg",
 					"name": "React",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 4,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_vue-js_color_28.svg",
 					"name": "Vue",
-					"description": "#"
+					"level": "Base"
 				},
 				{
 					"id": 5,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_typescript_28.svg",
 					"name": "TypeScript",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 6,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_javascript_28.svg",
 					"name": "JavaScript",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 7,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redux-toolkit_28.svg",
 					"name": "Redux Toolkit",
-					"description": "#"
+					"level": "Base"
 				},
 				{
 					"id": 8,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redux-toolkit_28.svg",
 					"name": "RTK Query",
-					"description": "#"
+					"level": "Base"
 				},
 				{
 					"id": 9,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_vite-js_28.svg",
 					"name": "Vite",
-					"description": "#"
+					"level": "Middle"
 				},
 				{
 					"id": 10,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_git_28.svg",
 					"name": "Система управления версиями Git",
-					"description": "#"
+					"level": "Middle"
 				}
 			]
 		},
@@ -119,13 +116,13 @@
 					"id": 1,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_after-effects_28.svg",
 					"name": "After Effects",
-					"description": "#"
+					"level": "Base"
 				},
 				{
 					"id": 2,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_premiere_28.svg",
 					"name": "Premiere Pro",
-					"description": "#"
+					"level": "Base"
 				}
 			]
 		}
