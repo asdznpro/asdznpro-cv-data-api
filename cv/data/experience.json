@@ -84,15 +84,19 @@
 		{
 			"id": 3,
 			"employerInfo": {
-				"name": "VK (Отдел киберспорта)",
+				"name": "VK",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
-				"preview": "...",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/vk-esports.png",
 				"website": "https://vk.company",
 				"shortDescription": "Игровое подразделение компании VK для фанатов киберспорта",
 				"fullDescription": "..."
 			},
 			"pathname": "vk-esports",
-			"labels": ["1 год 7 месяцев", "Графический дизайнер"],
+			"labels": [
+				"Отдел киберспорта",
+				"1 год 7 месяцев",
+				"Графический дизайнер"
+			],
 			"info": [
 				{
 					"title": "Годы работы:",
@@ -113,7 +117,7 @@
 		{
 			"id": 4,
 			"employerInfo": {
-				"name": "МГТВ (Game Space c 2023)",
+				"name": "МГТВ",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/mgtv-full.svg",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/mgtv.png",
 				"website": "https://tv.my.games",
@@ -121,7 +125,7 @@
 				"fullDescription": "..."
 			},
 			"pathname": "mgtv",
-			"labels": ["1 год", "Графический дизайнер"],
+			"labels": ["Game Space c 2023", "1 год", "Графический дизайнер"],
 			"info": [
 				{
 					"title": "Годы работы:",
