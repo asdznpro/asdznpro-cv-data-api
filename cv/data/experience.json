@@ -6,7 +6,7 @@
 				"name": "Winline EML 2022",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/eml.svg",
 				"preview": "...",
-				"shortDescription": "Winline Esports Media League — совместный турнир от букмекерской компании Winline и геймингового холдинга Metacorp",
+				"shortDescription": "Cовместный турнир от букмекерской компании Winline и геймингового холдинга Metacorp",
 				"fullDescription": "Winline Esports Media League — совместный турнир от букмекерской компании Winline и геймингового холдинга Metacorp. В мероприятии приняли участие киберспортсмены, стримеры, блогеры, артисты и иные медийные личности. Призовой фонд составил 10,000,000 RUB, который команды разыграли в Москве."
 			},
 			"pathname": "winline-eml-2022",
@@ -48,19 +48,6 @@
 							"href": "https://vk.com/twinkl3"
 						}
 					]
-				},
-				{
-					"id": 2,
-					"avatar": "https://sun110-2.userapi.com",
-					"fullName": "Данил Серебряков",
-					"jobTitle": "VK, Astrum Ent. (ex. MY.GAMES)",
-					"value": "feedback-content",
-					"socialNetworks": [
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						}
-					]
 				}
 			]
 		},
@@ -72,7 +59,7 @@
 				"logoLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/no-sleep-agency-full_light.svg",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/nosleepagency.png",
 				"website": "https://nosleepagency.ru",
-				"shortDescription": "No Sleep Agency — молодое диджитал-агентство, энергетика которого воплощает яркие и нестандартные идеи в проекты",
+				"shortDescription": "Молодое диджитал-агентство, энергетика которого воплощает яркие и нестандартные идеи в проекты",
 				"fullDescription": "..."
 			},
 			"pathname": "nosleepagency",
@@ -92,35 +79,19 @@
 				}
 			],
 			"execute": ["Чем я занимался?", "Чем я занимался?"],
-			"examples": ["link", "link", "link"],
-			"feedback": [
-				{
-					"id": 1,
-					"avatar": "https://sun110-2.userapi.com",
-					"fullName": "Данил Серебряков",
-					"jobTitle": "VK, Astrum Ent. (ex. MY.GAMES)",
-					"value": "feedback-content",
-					"socialNetworks": [
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						}
-					]
-				}
-			]
+			"examples": ["link", "link", "link"]
 		},
 		{
 			"id": 3,
 			"employerInfo": {
-				"name": "Warface",
-				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface.svg",
-				"logoLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface_light.svg",
+				"name": "VK (Отдел киберспорта)",
+				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
 				"preview": "...",
-				"website": "https://ru.warface.com",
-				"shortDescription": "Компьютерная игра в жанре массового многопользовательского онлайн-шутера от первого лица (MMOFPS)",
+				"website": "https://vk.company",
+				"shortDescription": "Игровое подразделение компании VK для фанатов киберспорта",
 				"fullDescription": "..."
 			},
-			"pathname": "warface",
+			"pathname": "vk-esports",
 			"labels": ["1 год 7 месяцев", "Графический дизайнер"],
 			"info": [
 				{
@@ -137,27 +108,12 @@
 				}
 			],
 			"execute": ["Чем я занимался?", "Чем я занимался?"],
-			"examples": ["link", "link", "link"],
-			"feedback": [
-				{
-					"id": 1,
-					"avatar": "https://sun110-2.userapi.com",
-					"fullName": "Данил Серебряков",
-					"jobTitle": "VK, Astrum Ent. (ex. MY.GAMES)",
-					"value": "feedback-content",
-					"socialNetworks": [
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						}
-					]
-				}
-			]
+			"examples": ["link", "link", "link"]
 		},
 		{
 			"id": 4,
 			"employerInfo": {
-				"name": "МГТВ",
+				"name": "МГТВ (Game Space c 2023)",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/mgtv-full.svg",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/mgtv.png",
 				"website": "https://tv.my.games",
@@ -181,22 +137,7 @@
 				}
 			],
 			"execute": ["Чем я занимался?", "Чем я занимался?"],
-			"examples": ["link", "link", "link"],
-			"feedback": [
-				{
-					"id": 1,
-					"avatar": "https://sun110-2.userapi.com",
-					"fullName": "Данил Серебряков",
-					"jobTitle": "VK, Astrum Ent. (ex. MY.GAMES)",
-					"value": "feedback-content",
-					"socialNetworks": [
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						}
-					]
-				}
-			]
+			"examples": ["link", "link", "link"]
 		},
 		{
 			"id": 5,
@@ -205,7 +146,7 @@
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/mybonus.svg",
 				"logoLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/mybonus_light.svg",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/mybonus.png",
-				"shortDescription": "Программа игровой лояльности для геймеров, в активе дебетовый карточный продукт вместе с банком Ренессанс Кредит и успешная интеграция с играми от Mail.ru Group",
+				"shortDescription": "Финтех-сервис для геймеров в партнерстве с VK. Программа игровой лояльности для геймеров, в активе дебетовый карточный продукт вместе с банком Ренессанс Кредит и успешная интеграция с играми от Mail.ru Group",
 				"fullDescription": "..."
 			},
 			"pathname": "mybonus",
@@ -225,22 +166,7 @@
 				}
 			],
 			"execute": ["Чем я занимался?", "Чем я занимался?"],
-			"examples": ["link", "link", "link"],
-			"feedback": [
-				{
-					"id": 1,
-					"avatar": "https://sun110-2.userapi.com",
-					"fullName": "Данил Серебряков",
-					"jobTitle": "VK, Astrum Ent. (ex. MY.GAMES)",
-					"value": "feedback-content",
-					"socialNetworks": [
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						}
-					]
-				}
-			]
+			"examples": ["link", "link", "link"]
 		}
 	],
 	"displayName": "Опыт работы",
