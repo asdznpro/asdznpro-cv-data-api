@@ -141,10 +141,10 @@
 				},
 				{
 					"id": "client",
-					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
-					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_color_28.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
 					"value": "MY.GAMES",
-					"href": "https://vk.company"
+					"href": "https://my.games"
 				},
 				{
 					"value": "Графический дизайнер"
@@ -182,6 +182,13 @@
 				{
 					"id": "date",
 					"value": "1 год"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_color_28.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
+					"value": "MY.GAMES",
+					"href": "https://my.games"
 				},
 				{
 					"value": "Game Space c 2023"
@@ -227,7 +234,6 @@
 					"value": "Графический дизайнер"
 				},
 				{
-					"id": "project-closed",
 					"value": "Проект закрыт"
 				}
 			],
