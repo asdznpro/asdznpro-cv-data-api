@@ -10,7 +10,28 @@
 				"fullDescription": "Winline Esports Media League — совместный турнир от букмекерской компании Winline и геймингового холдинга Metacorp. В мероприятии приняли участие киберспортсмены, стримеры, блогеры, артисты и иные медийные личности. Призовой фонд составил 10,000,000 RUB, который команды разыграли в Москве."
 			},
 			"pathname": "winline-eml-2022",
-			"labels": ["2 месяца", "Графический дизайнер"],
+			"labels": [
+				{
+					"id": "date",
+					"value": "2 месяца"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
+					"value": "Winline",
+					"href": "https://vk.company"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
+					"value": "Metacorp",
+					"href": "https://vk.company"
+				},
+				{
+					"value": "Графический дизайнер"
+				}
+			],
 			"info": [
 				{
 					"title": "Годы работы:",
@@ -63,7 +84,21 @@
 				"fullDescription": "..."
 			},
 			"pathname": "nosleepagency",
-			"labels": ["С мая 2022", "Графический дизайнер", "UI/UX", "Фронтенд"],
+			"labels": [
+				{
+					"id": "date",
+					"value": "С мая 2022"
+				},
+				{
+					"value": "Графический дизайнер"
+				},
+				{
+					"value": "UI/UX"
+				},
+				{
+					"value": "Фронтенд"
+				}
+			],
 			"info": [
 				{
 					"title": "Годы работы:",
@@ -84,18 +119,36 @@
 		{
 			"id": 3,
 			"employerInfo": {
-				"name": "VK",
-				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
+				"name": "Warface",
+				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface.svg",
+				"logoLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface_light.svg",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/vk-esports.png",
-				"website": "https://vk.company",
+				"website": "https://ru.warface.com",
 				"shortDescription": "Игровое подразделение компании VK для фанатов киберспорта",
 				"fullDescription": "..."
 			},
-			"pathname": "vk-esports",
+			"pathname": "warface",
 			"labels": [
-				"Отдел киберспорта",
-				"1 год 7 месяцев",
-				"Графический дизайнер"
+				{
+					"id": "date",
+					"value": "1 год 7 месяцев"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
+					"value": "VK",
+					"href": "https://vk.company"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
+					"value": "MY.GAMES",
+					"href": "https://vk.company"
+				},
+				{
+					"value": "Графический дизайнер"
+				}
 			],
 			"info": [
 				{
@@ -125,7 +178,18 @@
 				"fullDescription": "..."
 			},
 			"pathname": "mgtv",
-			"labels": ["Game Space c 2023", "1 год", "Графический дизайнер"],
+			"labels": [
+				{
+					"id": "date",
+					"value": "1 год"
+				},
+				{
+					"value": "Game Space c 2023"
+				},
+				{
+					"value": "Графический дизайнер"
+				}
+			],
 			"info": [
 				{
 					"title": "Годы работы:",
@@ -154,7 +218,18 @@
 				"fullDescription": "..."
 			},
 			"pathname": "mybonus",
-			"labels": ["2 года 6 месяцев", "Графический дизайнер", "Проект закрыт"],
+			"labels": [
+				{
+					"id": "date",
+					"value": "2 года 6 месяцев"
+				},
+				{
+					"value": "Графический дизайнер"
+				},
+				{
+					"value": "Проект закрыт"
+				}
+			],
 			"info": [
 				{
 					"title": "Годы работы:",
