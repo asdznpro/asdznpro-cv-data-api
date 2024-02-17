@@ -16,6 +16,7 @@
 				"value": "Russian Federation"
 			},
 			{
+				"id": "birthday",
 				"title": "Birthday:",
 				"value": "2003-04-08"
 			},
