@@ -1,0 +1,155 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"client": ["Томский политех", "Winline"],
+			"project": {
+				"fullName": "tpu.shop — интернет-магазин мерча Томского политеха",
+				"shortName": "tpu.shop",
+				"pathname": "tpu-shop",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
+				"date": "06.2022"
+			},
+			"tags": [
+				{
+					"name": "Новое",
+					"type": "new"
+				},
+				{
+					"name": "UI/UX",
+					"type": "ui-ux"
+				}
+			],
+			"awards": [
+				{
+					"id": 1,
+					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/awards/gb-bestitprojects-1022.png",
+					"href": "https://gb.ru/konkurs/bestitprojects/1022",
+					"name": "Конкурс на лучший IT-проект от GeekBrains",
+					"description": "Победитель конкурса на лучший IT-проект от образовательной платформы GeekBrains в номинации «Дизайн»"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"client": ["Сбер", "No Sleep Agency"],
+			"project": {
+				"fullName": "SberMegaMarket Hub — раздел на СберМегаМаркет и комьюнити, созданные специально для геймеров",
+				"shortName": "SberMegaMarket Hub",
+				"pathname": "sbermm",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/sbermm.png",
+				"date": "07.2023"
+			},
+			"tags": [
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"client": ["No Sleep Agency"],
+			"project": {
+				"fullName": "RUSH B — Открывай бесплатные кейсы со скинами CS:GO",
+				"shortName": "RUSH B",
+				"pathname": "rushb",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/rushb.png",
+				"date": "09.2023"
+			},
+			"tags": [
+				{
+					"name": "Новое",
+					"type": "new"
+				},
+				{
+					"name": "UI/UX",
+					"type": "ui-ux"
+				},
+				{
+					"name": "Фронтенд",
+					"type": "frontend"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"client": ["Metacorp", "Winline"],
+			"project": {
+				"fullName": "Winline EML 2022 — медийный турнир по CS:GO с участием про-игроков, блогеров, музыкантов и прочих звезд",
+				"shortName": "Winline EML 2022",
+				"pathname": "winline-eml-2022",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/winline-eml-2022.png",
+				"date": "11.2022"
+			},
+			"tags": [
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"client": ["Сбер", "No Sleep Agency"],
+			"project": {
+				"fullName": "Warface — многопользовательский онлайн-шутер нового поколения",
+				"shortName": "Warface",
+				"pathname": "warface",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
+				"date": "01.2023"
+			},
+			"tags": [
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"project": {
+				"fullName": "Как разрабатывал резюме — Curriculum Vitae",
+				"shortName": "Curriculum Vitae",
+				"pathname": "cv",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/cv.png",
+				"date": "02.2024"
+			},
+			"tags": [
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
+				},
+				{
+					"name": "UI/UX",
+					"type": "ui-ux"
+				},
+				{
+					"name": "Фронтенд",
+					"type": "frontend"
+				}
+			]
+		}
+	],
+	"tags": [
+		{
+			"name": "Новое",
+			"type": "new"
+		},
+		{
+			"name": "Графический дизайн",
+			"type": "graphic-design"
+		},
+		{
+			"name": "UI/UX",
+			"type": "ui-ux"
+		},
+		{
+			"name": "Фронтенд",
+			"type": "frontend"
+		}
+	],
+	"displayName": "Портфолио",
+	"pathname": "portfolio",
+	"id": "gKZLTUvg-EB2QQB2Z-uyb59bgw"
+}

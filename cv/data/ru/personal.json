@@ -1,0 +1,41 @@
+{
+	"data": {
+		"fullName": "Андрей Сухушин",
+		"firstName": "Андрей",
+		"lastName": "Сухушин",
+		"photo": "#",
+		"bio": [
+			"Идейные соображения высшего порядка, а также семантический разбор внешних противодействий влечет за собой процесс внедрения и модернизации новых предложений.",
+			"Но глубокий уровень погружения требует определения и уточнения системы массового участия. Однозначно, некоторые особенности внутренней политики объединены в целые кластеры себе подобных."
+		],
+		"brief": [
+			{
+				"title": "Гражданство:",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/emblem-rf.svg",
+				"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/emblem-rf_light.svg",
+				"value": "Российская федерация"
+			},
+			{
+				"title": "Дата рождения:",
+				"value": "2003-04-08"
+			},
+			{
+				"title": "Иностранные языки:",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/great-britain_color.svg",
+				"value": "English (B1 — intermediate)"
+			}
+		],
+		"possibleJobs": {
+			"title": "Возможные должности",
+			"list": [
+				"Фронтенд-разработчик (React)",
+				"UX/UI дизайнер",
+				"Графический дизайнер"
+			],
+			"caption": "*расположены в порядке приоритетности"
+		}
+	},
+	"displayName": "Обо мне",
+	"pathname": "personal",
+	"id": "ta5JBzUU-mQBWYjXk-YH43gmLH"
+}

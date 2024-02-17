@@ -1,0 +1,41 @@
+{
+	"data": {
+		"fullName": "Andrew Sukhushin",
+		"firstName": "Andrew",
+		"lastName": "Sukhushin",
+		"photo": "#",
+		"bio": [
+			"High-level ideation and semantic parsing of external countermeasures entails a process of implementing and modernizing new proposals. However, deep immersion requires defining and refining the system of mass participation.",
+			"Undoubtedly, some features of internal politics are grouped into clusters of similar entities."
+		],
+		"brief": [
+			{
+				"title": "Citizenship:",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/emblem-rf.svg",
+				"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/emblem-rf_light.svg",
+				"value": "Russian Federation"
+			},
+			{
+				"title": "Birthday:",
+				"value": "2003-04-08"
+			},
+			{
+				"title": "Foreign languages:",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/great-britain_color.svg",
+				"value": "English (B1 — intermediate)"
+			}
+		],
+		"possibleJobs": {
+			"title": "Possible Jobs",
+			"list": [
+				"Frontend-Developer (React)",
+				"UX/UI Designer",
+				"Graphic Designer"
+			],
+			"caption": "*arranged in order of priority"
+		}
+	},
+	"displayName": "About",
+	"pathname": "about",
+	"id": "ta5JBzUU-mQBWYjXk-YH43gmLH"
+}
