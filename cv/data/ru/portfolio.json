@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"id": 1,
-			"client": ["Томский политех", "Winline"],
+			"client": ["Томский политех"],
 			"project": {
 				"fullName": "tpu.shop — интернет-магазин мерча Томского политеха",
 				"shortName": "tpu.shop",
@@ -91,12 +91,12 @@
 		},
 		{
 			"id": 5,
-			"client": ["Сбер", "No Sleep Agency"],
+			"client": ["VK", "MY.GAMES"],
 			"project": {
 				"fullName": "Warface — многопользовательский онлайн-шутер нового поколения",
 				"shortName": "Warface",
 				"pathname": "warface",
-				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/gaminghub.png",
 				"date": "01.2023"
 			},
 			"tags": [
@@ -137,7 +137,7 @@
 				"fullName": "Руководство по визуальному стилю для Gaming Hub",
 				"shortName": "Gaming Hub",
 				"pathname": "gaminghub",
-				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/gaminghub.png",
 				"date": "01.2024"
 			},
 			"tags": [
