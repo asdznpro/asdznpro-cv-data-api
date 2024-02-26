@@ -129,6 +129,27 @@
 					"type": "frontend"
 				}
 			]
+		},
+		{
+			"id": 7,
+			"client": ["Сбер", "No Sleep Agency"],
+			"project": {
+				"fullName": "Руководство по визуальному стилю для Gaming Hub",
+				"shortName": "Gaming Hub",
+				"pathname": "gaminghub",
+				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/portfolio/preview/tpu-shop.png",
+				"date": "01.2024"
+			},
+			"tags": [
+				{
+					"name": "Новое",
+					"type": "new"
+				},
+				{
+					"name": "Графический дизайн",
+					"type": "graphic-design"
+				}
+			]
 		}
 	],
 	"tags": [
