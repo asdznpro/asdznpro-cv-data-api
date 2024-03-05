@@ -73,7 +73,6 @@
 			"client": [
 				{
 					"id": "client",
-					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
 					"value": "No Sleep Agency",
 					"href": "https://nosleepagency.ru"
 				}
@@ -139,6 +138,12 @@
 				},
 				{
 					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-play_color_28.svg",
+					"value": "VK Play",
+					"href": "https://vkplay.ru"
+				},
+				{
+					"id": "client",
 					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
 					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_color_28.svg",
 					"value": "MY.GAMES",
@@ -194,7 +199,6 @@
 				},
 				{
 					"id": "client",
-					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
 					"value": "No Sleep Agency",
 					"href": "https://nosleepagency.ru"
 				}
