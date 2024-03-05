@@ -2,7 +2,15 @@
 	"data": [
 		{
 			"id": 1,
-			"client": ["Томский политех"],
+			"client": [
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_tpu_color_28.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_tpu_color_28_light.svg",
+					"value": "Томский Пролитех",
+					"href": "https://tpu.ru"
+				}
+			],
 			"project": {
 				"fullName": "tpu.shop — интернет-магазин мерча Томского политеха",
 				"shortName": "tpu.shop",
@@ -32,7 +40,20 @@
 		},
 		{
 			"id": 2,
-			"client": ["Сбер", "No Sleep Agency"],
+			"client": [
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_sber_color_28.svg",
+					"value": "Сбер",
+					"href": "https://sber.ru"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
+					"value": "No Sleep Agency",
+					"href": "https://nosleepagency.ru"
+				}
+			],
 			"project": {
 				"fullName": "SberMegaMarket Hub — раздел на СберМегаМаркет и комьюнити, созданные специально для геймеров",
 				"shortName": "SberMegaMarket Hub",
@@ -49,7 +70,14 @@
 		},
 		{
 			"id": 3,
-			"client": ["No Sleep Agency"],
+			"client": [
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
+					"value": "No Sleep Agency",
+					"href": "https://nosleepagency.ru"
+				}
+			],
 			"project": {
 				"fullName": "RUSH B — Открывай бесплатные кейсы со скинами CS:GO",
 				"shortName": "RUSH B",
@@ -74,7 +102,18 @@
 		},
 		{
 			"id": 4,
-			"client": ["Metacorp", "Winline"],
+			"client": [
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_winline_color_28.svg",
+					"value": "Winline"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_metacorp_color_28.svg",
+					"value": "Metacorp"
+				}
+			],
 			"project": {
 				"fullName": "Winline EML 2022 — медийный турнир по CS:GO с участием про-игроков, блогеров, музыкантов и прочих звезд",
 				"shortName": "Winline EML 2022",
@@ -91,7 +130,21 @@
 		},
 		{
 			"id": 5,
-			"client": ["VK", "MY.GAMES"],
+			"client": [
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
+					"value": "VK",
+					"href": "https://vk.company"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_color_28.svg",
+					"value": "MY.GAMES",
+					"href": "https://my.games"
+				}
+			],
 			"project": {
 				"fullName": "Warface — многопользовательский онлайн-шутер нового поколения",
 				"shortName": "Warface",
@@ -132,7 +185,20 @@
 		},
 		{
 			"id": 7,
-			"client": ["Сбер", "No Sleep Agency"],
+			"client": [
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_sber_color_28.svg",
+					"value": "Сбер",
+					"href": "https://sber.ru"
+				},
+				{
+					"id": "client",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_my-games_28.svg",
+					"value": "No Sleep Agency",
+					"href": "https://nosleepagency.ru"
+				}
+			],
 			"project": {
 				"fullName": "Руководство по визуальному стилю для Gaming Hub",
 				"shortName": "Gaming Hub",
