@@ -32,7 +32,7 @@
 			"info": [
 				{
 					"title": "Годы работы:",
-					"value": "11.2022 — 01.2023 гг. (2 мес.)"
+					"value": "11.2022 — 01.2023 (2 месяца)"
 				},
 				{
 					"title": "Должность:",
@@ -44,30 +44,7 @@
 				}
 			],
 			"execute": ["Чем я занимался?", "Чем я занимался?"],
-			"examples": ["link", "link", "link"],
-			"feedback": [
-				{
-					"id": 1,
-					"avatar": "https://sun6-21.userapi.com/s/v1/if2/xRc8xJfzXMvUx-_mcgtnbDOujxcQ4Z0KHRHr5JV18NTa7_pO-U6WHOlvVevSHh3v18bSJ2hvTFNEB0-ZDB4UaK5-.jpg?quality=95&crop=456,336,758,758&as=50x50,100x100,200x200,400x400&ava=1&u=4aYY40O598z1zOwh7ugWG-qveke5Ms6xzT0PTQna4Vc&cs=200x200",
-					"fullName": "Данил Серебряков",
-					"jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
-					"value": "Идейные соображения высшего порядка, а также семантический разбор внешних противодействий влечет за собой процесс внедрения и модернизации новых предложений. Но глубокий уровень погружения требует определения и уточнения системы массового участия. Однозначно, некоторые особенности внутренней политики объединены в целые кластеры себе подобных.",
-					"socialNetworks": [
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						},
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-workspace_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						},
-						{
-							"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk-mail_color_28.svg",
-							"href": "https://vk.com/twinkl3"
-						}
-					]
-				}
-			]
+			"examples": ["link", "link", "link"]
 		},
 		{
 			"id": 2,
@@ -99,7 +76,7 @@
 			"info": [
 				{
 					"title": "Годы работы:",
-					"value": "11.2022 — 01.2023 гг. (2 мес.)"
+					"value": "05.2022 — по настоящее время (2 года 1 месяц)"
 				},
 				{
 					"title": "Должность:",
@@ -128,7 +105,7 @@
 			"labels": [
 				{
 					"id": "date",
-					"value": "1 год 7 месяцев"
+					"value": "1 год 4 мес."
 				},
 				{
 					"id": "client",
@@ -150,7 +127,7 @@
 			"info": [
 				{
 					"title": "Годы работы:",
-					"value": "11.2022 — 01.2023 гг. (2 мес.)"
+					"value": "10.2021 — 01.2023 (1 год 4 месяца)"
 				},
 				{
 					"title": "Должность:",
@@ -197,7 +174,7 @@
 			"info": [
 				{
 					"title": "Годы работы:",
-					"value": "11.2022 — 01.2023 гг. (2 мес.)"
+					"value": "07.2020 — 07.2021 гг. (1 год)"
 				},
 				{
 					"title": "Должность:",
@@ -225,7 +202,7 @@
 			"labels": [
 				{
 					"id": "date",
-					"value": "2 года 6 месяцев"
+					"value": "2 года 6 мес."
 				},
 				{
 					"value": "Графический дизайнер"
@@ -238,7 +215,7 @@
 			"info": [
 				{
 					"title": "Годы работы:",
-					"value": "11.2022 — 01.2023 гг. (2 мес.)"
+					"value": "09.2019 — 02.2022 (2 года 6 месяцев)"
 				},
 				{
 					"title": "Должность:",
