@@ -2,12 +2,12 @@
 	"data": [
 		{
 			"name": "VK",
-			"href": "https://vk.com/asdznpro",
+			"href": "https://vk.com/asdznpro?utm_source=cv&utm_medium=website&utm_campaign=contacts&utm_content=href&utm_term=vk",
 			"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_28.svg"
 		},
 		{
 			"name": "Telegram",
-			"href": "https://t.me/asdznpro",
+			"href": "https://t.me/asdznpro?utm_source=cv&utm_medium=website&utm_campaign=contacts&utm_content=href&utm_term=telegram",
 			"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/symbol_telegram_28.svg"
 		},
 		{
@@ -22,12 +22,12 @@
 		},
 		{
 			"name": "GitHub",
-			"href": "https://github.com/asdzn",
+			"href": "https://github.com/asdzn?utm_source=cv&utm_medium=website&utm_campaign=contacts&utm_content=href&utm_term=github",
 			"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_github_28.svg"
 		},
 		{
 			"name": "GitLab",
-			"href": "https://gitlab.com/asdzn",
+			"href": "https://gitlab.com/asdzn?utm_source=cv&utm_medium=website&utm_campaign=contacts&utm_content=href&utm_term=gitlab",
 			"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_gitlab_28.svg"
 		},
 		{
