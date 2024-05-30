@@ -11,8 +11,8 @@
 		"brief": [
 			{
 				"title": "Гражданство:",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/emblem-rf.svg",
-				"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/emblem-rf_light.svg",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/emblem-rf_28.svg",
+				"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/emblem-rf_light_28.svg",
 				"value": "Российская федерация"
 			},
 			{
@@ -22,7 +22,7 @@
 			},
 			{
 				"title": "Иностранные языки:",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/great-britain_rounded.svg",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/great-britain_rounded_28.svg",
 				"value": "Английский (B1 — intermediate)"
 			}
 		],
