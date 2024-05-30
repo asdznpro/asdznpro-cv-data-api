@@ -3,7 +3,7 @@
 		"fullName": "Andrew Sukhushin",
 		"firstName": "Andrew",
 		"lastName": "Sukhushin",
-		"photo": "#",
+		"photo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/about/me.png",
 		"bio": [
 			"High-level ideation and semantic parsing of external countermeasures entails a process of implementing and modernizing new proposals. However, deep immersion requires defining and refining the system of mass participation.",
 			"Undoubtedly, some features of internal politics are grouped into clusters of similar entities."
@@ -11,8 +11,8 @@
 		"brief": [
 			{
 				"title": "Citizenship:",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/emblem-rf.svg",
-				"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/emblem-rf_light.svg",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/emblem-rf.svg",
+				"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/emblem-rf_light.svg",
 				"value": "Russian Federation"
 			},
 			{
@@ -22,7 +22,7 @@
 			},
 			{
 				"title": "Foreign languages:",
-				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/great-britain_color.svg",
+				"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/countries/great-britain_rounded.svg",
 				"value": "English (B1 — intermediate)"
 			}
 		],
