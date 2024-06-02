@@ -24,20 +24,20 @@
 				},
 				{
 					"id": 4,
+					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_blender_28.svg",
+					"name": "Blender",
+					"level": "Base"
+				},
+				{
+					"id": 5,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_cinema-4d_28.svg",
 					"name": "Cinema 4D",
 					"level": "Base"
 				},
 				{
-					"id": 5,
+					"id": 6,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redshift_28.svg",
 					"name": "RedShift",
-					"level": "Base"
-				},
-				{
-					"id": 6,
-					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_blender_28.svg",
-					"name": "Blender",
 					"level": "Base"
 				}
 			]
@@ -66,32 +66,32 @@
 				},
 				{
 					"id": 4,
+					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_next-js_28.svg",
+					"name": "Next.js",
+					"level": "Base"
+				},
+				{
+					"id": 5,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_vue-js_color_28.svg",
 					"name": "Vue",
 					"level": "Base"
 				},
 				{
-					"id": 5,
+					"id": 6,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_typescript_28.svg",
 					"name": "TypeScript",
 					"level": "Middle"
 				},
 				{
-					"id": 6,
+					"id": 7,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_javascript_28.svg",
 					"name": "JavaScript",
 					"level": "Middle"
 				},
 				{
-					"id": 7,
-					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redux-toolkit_28.svg",
-					"name": "Redux Toolkit",
-					"level": "Base"
-				},
-				{
 					"id": 8,
 					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_redux-toolkit_28.svg",
-					"name": "RTK Query",
+					"name": "Redux Toolkit",
 					"level": "Base"
 				},
 				{
@@ -110,6 +110,18 @@
 		},
 		{
 			"id": 3,
+			"jobTitle": "Backend",
+			"stack": [
+				{
+					"id": 1,
+					"image": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/hard-skills/logo_nest-js_28.svg",
+					"name": "Nest.js",
+					"level": "Base"
+				}
+			]
+		},
+		{
+			"id": 4,
 			"jobTitle": "Other",
 			"stack": [
 				{
