@@ -1,7 +1,44 @@
 {
 	"data": [
 		{
-			"id": 1,
+			"id": 255,
+			"employerInfo": {
+				"name": "Virtus.pro",
+				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_virtus-pro_color_28.svg",
+				"preview": "...",
+				"website": "https://virtus.pro/",
+				"shortDescription": "Киберспортивный клуб, основанный в 2003 году в России",
+				"fullDescription": "Киберспортивный клуб, основанный в 2003 году в России. Клуб является семикратным чемпионом международных турниров категории Major в Dota 2 и CS:GO, входит в топ-10 мира по выигранным призовым."
+			},
+			"pathname": "virtus-pro",
+			"labels": [
+				{
+					"id": "date",
+					"value": "С июня 2024"
+				},
+				{
+					"value": "Графический дизайнер"
+				}
+			],
+			"info": [
+				{
+					"title": "Годы работы:",
+					"value": "06.2024 — по настоящее время (меньше месяца)"
+				},
+				{
+					"title": "Должность:",
+					"value": "Графический дизайнер"
+				},
+				{
+					"title": "Форма занятости:",
+					"value": "Полная"
+				}
+			],
+			"execute": ["Чем я занимался?", "Чем я занимался?"],
+			"examples": ["link", "link", "link"]
+		},
+		{
+			"id": 125,
 			"employerInfo": {
 				"name": "Winline EML 2022",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/eml.svg",
@@ -47,7 +84,7 @@
 			"examples": ["link", "link", "link"]
 		},
 		{
-			"id": 2,
+			"id": 367,
 			"employerInfo": {
 				"name": "No Sleep Agency",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/no-sleep-agency-full.svg",
@@ -91,7 +128,7 @@
 			"examples": ["link", "link", "link"]
 		},
 		{
-			"id": 3,
+			"id": 674,
 			"employerInfo": {
 				"name": "Warface",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface.svg",
@@ -142,7 +179,7 @@
 			"examples": ["link", "link", "link"]
 		},
 		{
-			"id": 4,
+			"id": 627,
 			"employerInfo": {
 				"name": "МГТВ",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/mgtv-full.svg",
@@ -189,7 +226,7 @@
 			"examples": ["link", "link", "link"]
 		},
 		{
-			"id": 5,
+			"id": 574,
 			"employerInfo": {
 				"name": "MYBONUS",
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/mybonus.svg",
