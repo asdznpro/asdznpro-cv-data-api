@@ -134,8 +134,8 @@
 				"logo": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/products/logo_vk_color_28.svg",
 				"preview": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/experience/preview/warface.png",
 				"website": "https://vk.company",
-				"shortDescription": "Онлайн-шутер нового поколения от создателей Far Cry и Crysis",
-				"fullDescription": "..."
+				"shortDescription": "Один из крупнейших технологических холдингов России",
+				"fullDescription": "Один из крупнейших технологических холдингов России, объединяющий коммуникационные, развлекательные и образовательные сервисы"
 			},
 			"pathname": "vk-esports",
 			"labels": [
@@ -158,8 +158,8 @@
 				},
 				{
 					"id": "client",
-					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface.svg",
-					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface_light.svg",
+					"icon": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface_light.svg",
+					"iconLight": "https://asdznpro-cv.hb.ru-msk.vkcs.cloud/assets/icons/custom/warface.svg",
 					"value": "Warface",
 					"href": "https://ru.warface.com"
 				},
