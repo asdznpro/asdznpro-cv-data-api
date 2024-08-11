@@ -5,9 +5,11 @@
       "feedback": [
         {
           "id": 1,
-          "avatar": "https://sun6-21.userapi.com/s/v1/if2/xRc8xJfzXMvUx-_mcgtnbDOujxcQ4Z0KHRHr5JV18NTa7_pO-U6WHOlvVevSHh3v18bSJ2hvTFNEB0-ZDB4UaK5-.jpg?quality=95&crop=456,336,758,758&as=50x50,100x100,200x200,400x400&ava=1&u=4aYY40O598z1zOwh7ugWG-qveke5Ms6xzT0PTQna4Vc&cs=200x200",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "https://sun6-21.userapi.com/s/v1/if2/xRc8xJfzXMvUx-_mcgtnbDOujxcQ4Z0KHRHr5JV18NTa7_pO-U6WHOlvVevSHh3v18bSJ2hvTFNEB0-ZDB4UaK5-.jpg?quality=95&crop=456,336,758,758&as=50x50,100x100,200x200,400x400&ava=1&u=4aYY40O598z1zOwh7ugWG-qveke5Ms6xzT0PTQna4Vc&cs=200x200",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "Идейные соображения высшего порядка, а также семантический разбор внешних противодействий влечет за собой процесс внедрения и модернизации новых предложений. Но глубокий уровень погружения требует определения и уточнения системы массового участия. Однозначно, некоторые особенности внутренней политики объединены в целые кластеры себе подобных.",
           "socialNetworks": [
@@ -19,17 +21,21 @@
         },
         {
           "id": 2,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "winline-eml-2022"
         },
         {
           "id": 3,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "Идейные соображения высшего порядка, а также семантический разбор внешних противодействий влечет за собой процесс внедрения и модернизации новых предложений. Но глубокий уровень погружения требует определения и уточнения системы массового участия. Однозначно, некоторые особенности внутренней политики объединены в целые кластеры себе подобных."
         }
@@ -40,9 +46,11 @@
       "feedback": [
         {
           "id": 1,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "nosleepagency"
         }
@@ -53,17 +61,21 @@
       "feedback": [
         {
           "id": 1,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "warface"
         },
         {
           "id": 2,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "warface"
         }
@@ -74,25 +86,31 @@
       "feedback": [
         {
           "id": 1,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "mgtv"
         },
         {
           "id": 2,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "Идейные соображения высшего порядка, а также семантический разбор внешних противодействий влечет за собой процесс внедрения и модернизации новых предложений. Но глубокий уровень погружения требует определения и уточнения системы массового участия. Однозначно, некоторые особенности внутренней политики объединены в целые кластеры себе подобных."
         },
         {
           "id": 3,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "mgtv"
         }
@@ -103,33 +121,41 @@
       "feedback": [
         {
           "id": 1,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "mybonus"
         },
         {
           "id": 2,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "mybonus"
         },
         {
           "id": 3,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "mybonus"
         },
         {
           "id": 4,
-          "avatar": "",
-          "fullName": "Данил Серебряков",
-          "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)",
+          "author": {
+            "avatar": "",
+            "fullName": "Данил Серебряков",
+            "jobTitle": "Комьюнити-менеджер VK, Astrum Ent. (ex. MY.GAMES)"
+          },
           "date": "2024-06-11T00:00:00",
           "value": "mybonus"
         }
